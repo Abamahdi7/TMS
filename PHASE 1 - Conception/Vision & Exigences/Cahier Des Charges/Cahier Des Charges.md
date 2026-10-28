@@ -1,9 +1,4 @@
-# Cahier des charges TMS
-
-**Produit :** Transform Management System — nom de travail  
-**Application :** Java Desktop  
-**Public cible :** petites entreprises de transport et de distribution  
-**Spécification associée :** Requirements.md
+# Cahier des charges 
 
 Le TMS organise le travail d’une petite entreprise depuis la réception d’une demande jusqu’au suivi de la mission et des sommes restant à recevoir. Le transport constitue le cœur de l’application. Une gestion commerciale simple permet de relier une vente à sa livraison.
 
