@@ -1,5 +1,5 @@
 
-# Exigences — TMS (Transport Management System) V1
+# TMS (Transport Management System) V1
 
 Application **Java Desktop**. Deux parcours : **A) vente avec livraison**, **B) transport seul**.
 
